@@ -131,8 +131,7 @@ The **Gold layer** data in Synapse follows a **star schema** for optimized analy
 ## ✅ Key Outcomes
 - **End-to-End Pipeline:** From **real-time ingestion → transformation → warehouse → analytics**.  
 - **Scalable Architecture:** Easily adaptable for different hospital datasets.  
-- **Business Insights:** Hospital admins can monitor **bed usage, patient flow, and department efficiency** in real time.  
-- **Portfolio Value:** Demonstrates both **Data Engineering** and **Analytics skills** in one project.  
+- **Business Insights:** Hospital admins can monitor **bed usage, patient flow, and department efficiency** in real time. 
 
 ---
 
